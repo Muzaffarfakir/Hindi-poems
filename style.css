@@ -1,0 +1,27 @@
+h3{
+  text-align: center;
+  margin-top:30px;
+}
+*{
+  margin:0;
+  padding:0;
+}
+#add{
+  border-radius:20px;
+  border: 2px;
+  position: fixed;
+  top:82%;
+  left:75%;
+  font-size:21px;
+  background:black;
+  color: ghostwhite;
+  border:2px solid;
+  border-radius:6px;
+  
+  
+}
+body{
+ 
+  height:100%;
+  
+}
